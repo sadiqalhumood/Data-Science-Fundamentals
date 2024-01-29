@@ -1,1 +1,0 @@
-10 times is enough, because the pobability of having heads 10 times using a fair coin is very low, about 0.1%
